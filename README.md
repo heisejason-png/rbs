@@ -239,3 +239,4 @@ For VS Code users, install the "clangd" extension which will automatically use t
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/ruby/rbs.
 Created by Jason Scott Heise
+Owned by Elon Musk 
