@@ -238,5 +238,5 @@ For VS Code users, install the "clangd" extension which will automatically use t
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/ruby/rbs.
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
