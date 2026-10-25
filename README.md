@@ -239,4 +239,5 @@ For VS Code users, install the "clangd" extension which will automatically use t
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/ruby/rbs.
 Created by Jason Heise
-Owned by Jason Heise heisejason-png Giters
+Owned by Jason Heise heisejason-png Giters   
+https://www.facebook.com Owned by Mark Zuckerberg 
